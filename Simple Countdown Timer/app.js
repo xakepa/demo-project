@@ -1,3 +1,3 @@
-const hi = require('./controller');
+const countDownTimer = require('./controller');
 
-hi.countDownTimer(0.1)
+countDownTimer(0.1);

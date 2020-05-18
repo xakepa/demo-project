@@ -14,4 +14,4 @@ async function countDownTimer(minutes) {
     }, 1000)
 }
 
-module.exports.countDownTimer = countDownTimer;
+module.exports = countDownTimer;
